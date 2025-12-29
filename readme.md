@@ -3,7 +3,7 @@
 Full Stack Developer @ VEHTEC SOFTWARE SOLUTIONS PRIVATE LIMITED 
 - 🔭 Here's my [portfolio](https://veeraragesh-portfolio.netlify.app)                                                 
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
-- Social Presence
+- Social Presence <br/>
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/veeraragesh) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/fullgrownmen/)
 
 ### I code in
